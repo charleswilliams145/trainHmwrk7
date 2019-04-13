@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+}
+h3 {
+    font-weight: 800;
+    text-align: center;
+
+}
+th {
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.row {
+    background: gray;
+    padding: 25px;
+    margin-top: 3px;
+    font-weight: 600
+}
+body {
+    background: grey;
+}
+label{
+    font-size: 24px;
+    font-weight: 800;
+}
+.jumbotron {
+    background-color:slategrey
+}
+tbody {
+    background:white;
+    color:red
+}
+
+
+
+    
